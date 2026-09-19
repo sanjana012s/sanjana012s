@@ -5,7 +5,7 @@
 <table width="100%" cellpadding="20" cellspacing="0" bgcolor="#0b1020" align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Person coding animation" width="500" />
+      <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" alt="Real person coding on laptop" width="520" style="border-radius: 20px;" />
     </td>
   </tr>
 </table>
