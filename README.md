@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Full-Stack+Developer;C%2B%2B+%7C+DSA+%7C+JavaScript;Building+Digital+Solutions" alt="Typing Animation">
+  <!-- Sanjana Name & Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Full-Stack+Developer;C%2B%2B+%7C+DSA+%7C+JavaScript;Building+Digital+Solutions" alt="Typing Animation">
 
-<br><br>
+  <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
+  <!-- Animated Person Coding on Laptop -->
+  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif"
+       width="600"
+       alt="Person coding on laptop animation">
 
-<br><br>
+  <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sanjana012s&label=Profile%20Views&color=00C2FF&style=for-the-badge">
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=sanjana012s&label=Profile%20Views&color=00C2FF&style=for-the-badge"
+       alt="Profile Views">
 
-<img src="https://img.shields.io/github/followers/sanjana012s?label=Followers&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/followers/sanjana012s?label=Followers&style=for-the-badge&color=blue"
+       alt="GitHub Followers">
 
 </div>
 
