@@ -74,33 +74,16 @@ I am actively looking for opportunities in software engineering, full-stack deve
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana012s&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana012s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana012s&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana012s&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sanjana012s&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sanjana012s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
-## Open to Opportunities
-
-I am open to:
-
-- Software Engineer roles
-- Full-Stack Developer roles
-- Frontend / Backend Developer opportunities
-- Product engineering and problem-solving teams
-
-If you are looking for someone who is passionate, adaptable, and ready to build impactful software, I would love to connect.
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sanjana012s&icon=0&color=0" alt="Visitors" />
-</p>
 
