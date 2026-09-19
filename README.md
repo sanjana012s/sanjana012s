@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Frontend+Developer;C%2B%2B+%7C+DSA+%7C+JavaScript;Building+Digital+Solutions" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Java+Developer;Full-Stack+Engineer;Problem+Solver;Building+Scalable+Digital+Solutions" alt="Typing Animation">
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Laptop coding animation">
 
 <br><br>
 
@@ -16,9 +16,9 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Software Developer and Frontend Developer
-- 🧠 Strong interest in C++ and Data Structures & Algorithms
-- 🌐 Interested in HTML, CSS, JavaScript, and React
+- 💻 Software Developer and Full-Stack Developer
+- 🧠 Strong interest in Java, Data Structures & Algorithms, and problem solving
+- 🌐 Interested in HTML, CSS, JavaScript, React, and scalable web applications
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🚀 Currently working on AstroNav AI
 - 🧩 Solved 500+ LeetCode problems
@@ -30,10 +30,10 @@
 
 ### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Frontend Development
 
