@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Sanjana 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Full-Stack+Engineer;Problem+Solver;Building+Powerful+Digital+Solutions" alt="Typing intro for Sanjana" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder animation" width="500" />
+</p>
 
 <p align="center">
   <img src="assets/certificate.png" alt="Certificate" width="700" />
@@ -6,7 +12,7 @@
 
 <p align="center">
   <strong>Software Developer | Full-Stack Engineer | Problem Solver</strong><br>
-  Building scalable products, writing clean code, and turning ideas into impactful digital experiences.
+  Passionate coder building powerful, scalable, and meaningful digital experiences.
 </p>
 
 <p align="center">
