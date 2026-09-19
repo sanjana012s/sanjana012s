@@ -1,23 +1,14 @@
 <div align="center">
 
-  <!-- Sanjana Name & Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Full-Stack+Developer;C%2B%2B+%7C+DSA+%7C+JavaScript;Building+Digital+Solutions" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Frontend+Developer;C%2B%2B+%7C+DSA+%7C+JavaScript;Building+Digital+Solutions" alt="Typing Animation">
 
-  <br><br>
+<br>
 
-  <!-- Animated Person Coding on Laptop -->
-  <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif"
-       width="600"
-       alt="Person coding on laptop animation">
+<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
 
-  <br><br>
+<br><br>
 
-  <!-- Profile Views & Followers -->
-  <img src="https://komarev.com/ghpvc/?username=sanjana012s&label=Profile%20Views&color=00C2FF&style=for-the-badge"
-       alt="Profile Views">
-
-  <img src="https://img.shields.io/github/followers/sanjana012s?label=Followers&style=for-the-badge&color=blue"
-       alt="GitHub Followers">
+<img src="https://komarev.com/ghpvc/?username=sanjana012s&label=Profile%20Views&color=00C2FF&style=for-the-badge">
 
 </div>
 
@@ -25,9 +16,9 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Software Developer and Full-Stack Developer
+- 💻 Software Developer and Frontend Developer
 - 🧠 Strong interest in C++ and Data Structures & Algorithms
-- 🌐 Interested in Frontend and Backend Development
+- 🌐 Interested in HTML, CSS, JavaScript, and React
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🚀 Currently working on AstroNav AI
 - 🧩 Solved 500+ LeetCode problems
@@ -35,53 +26,70 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### 💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 Artificial Intelligence
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Deep Learning
+- Agentic AI
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌍 WonderTrust
-Travel platform for discovering useful places in different cities.
+
+A travel platform that helps users discover useful places in different cities.
 
 ### 🍽️ QR Restaurant Scanner
-QR-based ordering system with digital menu, real-time tracking, and owner dashboard.
+
+A QR-based restaurant ordering system with digital menu, real-time tracking, and an owner dashboard.
 
 ### 🎲 Dice Dare Ludo
-Interactive multiplayer dice game built using React and JavaScript.
+
+An interactive multiplayer dice game developed using React, JavaScript, and CSS.
+
+### 🌦️ Weather App
+
+A React-based weather application displaying temperature, humidity, and weather conditions.
 
 ### 🛰️ AstroNav AI
-AI-based space navigation project exploring Reinforcement Learning for optimal path selection.
+
+An AI-based space navigation project exploring Reinforcement Learning for optimal path selection and satellite collision prevention.
 
 ### 🤖 Loan Prediction App
-Machine learning application for loan approval prediction.
+
+A machine learning application for loan approval prediction.
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 SIH 2025–26 (Nagpur)
+- 🏅 Participated in SIH 2025–26 (Nagpur)
 - 💡 Solved 500+ LeetCode problems
 - 📁 Maintained 35 GitHub repositories
 
@@ -91,27 +99,23 @@ Machine learning application for loan approval prediction.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjana012s&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=sanjana012s&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana012s&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana012s&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana012s&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana012s&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
 ---
 
-## 🧠 LeetCode
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sanjana012s/">
-
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-
-</a>
+<img src="https://raw.githubusercontent.com/sanjana012s/sanjana012s/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 
 </div>
 
@@ -139,6 +143,6 @@ Machine learning application for loan approval prediction.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Code+Today%2C+Create+Tomorrow+%E2%9C%A8">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Code+Today%2C+Create+Tomorrow+%E2%9C%A8" alt="Footer Animation">
 
 </div>
