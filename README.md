@@ -2,9 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Full-Stack+Engineer;Problem+Solver;Building+Powerful+Digital+Solutions" alt="Typing intro for Sanjana" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder animation" width="500" />
-</p>
+<table width="100%" cellpadding="20" cellspacing="0" bgcolor="#0f172a" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80" alt="Professional software developer" width="420" style="border-radius: 18px;" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="assets/certificate.png" alt="Certificate" width="700" />
