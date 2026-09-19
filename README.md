@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;Software+Developer;Full-Stack+Engineer;Problem+Solver;Building+Powerful+Digital+Solutions" alt="Typing intro for Sanjana" />
 </div>
 
-<table width="100%" cellpadding="20" cellspacing="0" bgcolor="#0f172a" align="center">
+<table width="100%" cellpadding="20" cellspacing="0" bgcolor="#0b1020" align="center">
   <tr>
     <td align="center">
-      <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80" alt="Professional software developer" width="420" style="border-radius: 18px;" />
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Person coding animation" width="500" />
     </td>
   </tr>
 </table>
