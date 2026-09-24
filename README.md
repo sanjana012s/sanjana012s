@@ -21,8 +21,7 @@
 - 🌐 Interested in HTML, CSS, JavaScript, React, and scalable web applications
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🚀 Currently working on AstroNav AI
-- 🧩 Solved 500+ LeetCode problems
-- 📂 GitHub portfolio with 35 repositories
+
 
 ---
 
